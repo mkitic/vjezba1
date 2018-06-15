@@ -7,5 +7,9 @@ namespace ConsoleApplication1
 {
     class Class1
     {
+        public void probaLokal(int br)
+        { 
+        
+        }
     }
 }
