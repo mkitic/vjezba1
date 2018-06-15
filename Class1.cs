@@ -11,5 +11,10 @@ namespace ConsoleApplication1
         { 
         
         }
+
+        public void probaLoka2(int br)
+        {
+
+        }
     }
 }
